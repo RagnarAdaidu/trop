@@ -4,9 +4,6 @@ import IMG0 from "../../assets/IMG0.png";
 import IMG1 from "../../assets/airtime.png";
 import IMG2 from "../../assets/ecom.png";
 import IMG3 from "../../assets/movies.png";
-import IMG10 from "../../assets/IMG-10.png";
-import IMG4 from "../../assets/youtube.png";
-import IMG5 from "../../assets/school.png";
 import IMG6 from "../../assets/meal-order.png";
 
 const data = [
