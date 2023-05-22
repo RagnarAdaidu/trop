@@ -1,7 +1,8 @@
 .experience_container {
-    display: grid;
+    /* display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 2rem;
+    gap: 2rem; */
+    margin: auto;
 }
 
 .experience_container > div {
@@ -21,6 +22,15 @@
     text-align: center;
     margin-bottom: 2rem;
     color: var(--color-primary);
+}
+
+.experience_frontend{
+    /* margin-left: 400px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
 
 .experience_content {

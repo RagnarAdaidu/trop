@@ -2,7 +2,7 @@ import "./hero.css";
 import ME from "../../assets/deca.jpeg";
 import { motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
-import CV from "../../assets/Noel_Adaidu_Fullstack_Engineer.pdf";
+import CV from "../../assets/Noel_Adaidu_Frontend_Engineer.pdf";
 
 const Hero = () => {
   //framer motion animation variants
@@ -66,9 +66,9 @@ const Hero = () => {
               </span>
             </div>
             <h1 className="hero-main-text ">
-              I am a full Stack developer specializing in{" "}
+              I am a Frontend developer specializing in{" "}
               <span className="react-text">ReactJS</span> and{" "}
-              <span className="node-text">NodeJS</span>
+              <span className="node-text">Javascript</span>
             </h1>
 
             <div className="btn-div">
