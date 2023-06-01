@@ -78,7 +78,76 @@ function Experience() {
 
         </div>
 
-        
+        <div className='experience_backend'>
+
+        <h3>Backend Development</h3>
+          <div className='experience_content'>
+            <article className='experience_details'>
+            <BsFillPatchCheckFill className='experience_details_icon' />
+            <div>
+            <h4>Nodejs</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+
+            <article className='experience_details'>
+            <BsFillPatchCheckFill className='experience_details_icon' />
+            <div>
+            <h4>Express</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+
+            <article className='experience_details'>
+            <BsFillPatchCheckFill className='experience_details_icon' />
+            <div>
+            <h4>MongoDB</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+
+            <article className='experience_details'>
+            <BsFillPatchCheckFill className='experience_details_icon' />
+            <div>
+            <h4>GraphQL</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+
+            <article className='experience_details'>
+            <BsFillPatchCheckFill className='experience_details_icon' />
+            <div>
+            <h4>Mysql</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+
+            <article className='experience_details'>
+            <BsFillPatchCheckFill className='experience_details_icon' />
+            <div>
+            <h4>CI/CD</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+
+            <article className='experience_details'>
+            <BsFillPatchCheckFill className='experience_details_icon' />
+            <div>
+            <h4>PostgreSQL</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+
+            <article className='experience_details'>
+            <BsFillPatchCheckFill className='experience_details_icon' />
+            <div>
+            <h4>Docker</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+          </div>
+
+        </div>
       </div>
       
     </section>
