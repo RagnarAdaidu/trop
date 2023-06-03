@@ -66,8 +66,8 @@ const Hero = () => {
               </span>
             </div>
             <h1 className="hero-main-text ">
-              I am a Frontend developer specializing in{" "}
-              <span className="react-text">ReactJS</span> and{" "}
+              I am a Fullstack developer specializing in{" "}
+              <span className="react-text">Nodejs, tyReactJS</span> and{" "}
               <span className="node-text">Javascript</span>
             </h1>
 

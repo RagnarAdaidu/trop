@@ -20,7 +20,7 @@ function Header() {
           <h1>
             <span className="header_text">Noel</span> Adaidu
           </h1>
-          <h5 className="text-light">Frontend Developer(Reactjs and Javascript)</h5>
+          <h5 className="text-light">Fullstack Developer(Nodejs, Reactjs and Javascript)</h5>
         </motion.div>
         <CTA />
         <Headersocial />

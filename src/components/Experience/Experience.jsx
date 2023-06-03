@@ -9,7 +9,7 @@ function Experience() {
       <h2>My Experience</h2>
       <div className='container experience_container'>
         <div className='experience_frontend'>
-          <h3>Frontend Development</h3>
+          <h3>Fullstck Developer</h3>
           <div className='experience_content'>
             <article className='experience_details'>
             <BsFillPatchCheckFill className='experience_details_icon' />

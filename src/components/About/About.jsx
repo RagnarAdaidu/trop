@@ -50,15 +50,15 @@ function About() {
             </article>
           </div>
           <p>
-            I am a <strong>Frontend Developer </strong> with over 3 years of
+            I am a <strong>Fullstack Developer </strong> with over 3 years of
             experience, specializing in Javascript, Nodejs, React and NextJs. I have
-            extensive expertise as a frontend developer designing and creating
+            extensive expertise as a Fullstack developer designing and creating
             websites that conform to web accessibility standards.
             <br /> <br />
             I am skilled in building responsive designs that work across
             different devices and platforms. I am a capable and consistent problem-solver,
             skilled at prioritizing. I have built excellent web applications
-            with Javascript, Typescript, React and Redux ranging from Fintech to
+            with Javascript, Nodejs, Typescript, React and Redux ranging from Fintech to
             health and I.T sectors.
             <br /> <br />
             In addition to technical skills, I have experience working closely
